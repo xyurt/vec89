@@ -101,12 +101,6 @@ To enable thread safety:
 
 ---
 
-## License
-
-MIT License © [Your Name]
-
----
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to fork and submit pull requests.
